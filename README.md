@@ -7,14 +7,11 @@
 学习 · 实践 · 记录 · 分享
 
 
-
-
-
 </div>
 
 ## 👋 关于这个仓库
 
-你好，我是 **PHY**。
+你好，我是 **Phy**。
 
 这是我第一次尝试使用 GitHub 管理和分享自己的项目，也是我学习 Git、提交代码、连接远程仓库和完成首次推送的起点。
 
@@ -104,6 +101,7 @@ PASS: GPU forward, backward, optimizer and NumPy conversion.
 ## 🤝 交流与反馈
 
 这里既是我的学习记录，也是一个开放交流的空间。
+交流QQ：3125657266
 
 如果你发现代码或笔记中有错误，欢迎通过 [Issues](https://github.com/MrRedyeah/FirstTry_Phy/issues) 指出，也欢迎分享你的理解和建议。
 
